@@ -15,3 +15,5 @@ Cargo.lock
 
 # some jetbrains nonsense lol?
 .idea/
+
+main
