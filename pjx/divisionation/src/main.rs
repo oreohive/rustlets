@@ -4,7 +4,7 @@ fn main() {
 
     let mut choice=String::new();
 
-    // Intro text
+    // intro text
     println!(
 "\nwelcome to the divisionator!
  \nenter a positive integer number; we'll find all positive integers it cleanly divides by.
