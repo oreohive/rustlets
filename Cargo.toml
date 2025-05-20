@@ -1,0 +1,3 @@
+[workspace]
+resolver = "2"
+members = ["pjx/add_numbers", "pjx/guessing-game", "pjx/hello-world"]
